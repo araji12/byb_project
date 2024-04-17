@@ -1,2 +1,2 @@
-# displaying message "Hello World!"
-print("Hello World!")
+# displaying message "Git is Awesome!"
+print("Git is Awesome!")
