@@ -1,3 +1,2 @@
-# displaying message "Git is Awesome!"
-print("Git is Awesome!")
-#this should appear under "Changes not staged for commit"
+# displaying message "Hello World!"
+print("Hello World!")
